@@ -1,0 +1,25 @@
+{
+    "name": "Productivity BlockerPage(NO ADS,FOR EVER)",
+    "version": "1.0",
+    "description": "block any site",
+    "permissions": ["storage", "tabs"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [
+      {
+        "matches": ["*://*/*"],
+         "js": ["contentScript.js"]
+      }
+    ],
+    "action": {
+      "default_icon": {
+        "16": "assets/p-2.png",
+        "24": "assets/p-2.png",
+        "32": "assets/p-2.png"
+      },
+      "default_title": "Productivity BlockerPage(NO ADS,FOR EVER)",
+      "default_popup": "popup.html"
+    },
+    "manifest_version": 3
+}
