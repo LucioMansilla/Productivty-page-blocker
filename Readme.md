@@ -4,6 +4,16 @@ This is an extension for both Google Chrome and Edge which allows you to block s
 
 Recent studies have shown that excessive use of social media is unproductive and can have a negative effect on mental health. This extension provides a solution to avoid such distractions. [Link to Oxford University research](https://www.ox.ac.uk/news/2019-06-18-social-media-use-has-negative-effect-mental-health-finds-large-study)
 
+# Studies
+1. Reduced Attention and Memory Problems: A study conducted by Washington University in St. Louis found that university students experienced decreased attention and memory problems as they spent more time on the computer. (https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-8624.2006.00846.x) 
+
+2. According to a study published in Psychological Science, excessive use of the Internet can reduce users' ability to maintain their attention.
+ (https://www.ncbi.nlm.nih.gov/pubmed/17087446)
+
+3. Mental Health Issues: A study published in Social Media & Society found that excessive use of social media is associated with mental health issues. (https://journals.sagepub.com/doi/full/10.1177/2056305118786748) 
+
+4. Productivity Issues: A study from the University of Montreal found that excessive computer use affects productivity. (https://www.ncbi.nlm.nih.gov/pubmed/27388902) 
+
 # Benefits
 * Helps to increase productivity by blocking websites with distracting and unproductive content
 * Offers an effective solution to help users achieve their goals
