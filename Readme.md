@@ -40,7 +40,7 @@ Recent studies have shown that excessive use of social media is unproductive and
 
 
 # Frequently Asked Questions
-For more information on the extension, please see the Frequently Asked Questions section here: [INSERT LINK].
+Soon
 
 # Availability
 Productivity Page-Blocker 1.0 will be available in the Google Chrome and Microsoft Edge store soon. We look forward to providing you with an effective and efficient way to maximize your productivity and avoid distractions.
